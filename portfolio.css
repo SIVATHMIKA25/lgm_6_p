@@ -1,0 +1,59 @@
+#image1{
+    background-image: url(https://thumbs.dreamstime.com/b/yellow-textured-plain-background-wallpaper-design-use-text-image-yellow-textured-plain-background-wallpaper-137515345.jpg);
+    height:300px;
+    padding-top:2px;
+    color:black;
+    margin-top:25px;
+    max-width:100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#Text{
+    max-width: 300px;
+    padding: 10px,20px;
+    margin-top:70px;
+}
+#image2{
+background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v546batch3-mynt-34-badgewatercolor_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=89288ef4b47127f7f34a5998b50e4470);
+height:400px;
+max-width:200%;
+margin-top:-65px;
+
+}
+#cartoon{
+    height:200px;
+    width:200px;
+padding:40px 40px 20px 40px;
+padding-top: 10px;
+}
+p{
+    font-size: x-large;
+    color:black ;
+    float:center;
+    padding-left:250px;
+    padding-top:10px;
+    margin:-170px;
+    margin-left:20px;
+}
+#image3{
+    background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm336-autumn-card-02_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=d74e7f2a16f1a2dff94c17aaacd2c1ad);
+    height:400px;
+    max-width:100%;
+    margin-top:-65px;}
+#hobbies{
+    font-size:large;
+    color:black ;}
+#strengths{
+    font-size: large;
+    color:black ;}
+.thumbnail{
+    display:inline-block;
+    height:200px;
+    padding: 5px;
+    margin-bottom: 20px;
+    background-color:cornsilk;
+    border: 1px solid;
+    text-align: center;
+    color:black;
+    margin-top:50px;
+    width:200px;
+    padding-top:50px;}
